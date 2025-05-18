@@ -29,7 +29,7 @@
 | 🎮 [Gomoku AI](https://github.com/abdo308/gomoku-ai) | A 15x15 "5 in a row" game with AI using Minimax and Alpha-beta | Python, OOP, Pygame  |
 
 
-> 📌 More at [github.com/yourusername](https://github.com/abdo308)
+> 📌 More at [github.com/abdo308](https://github.com/abdo308)
 
 ---
 
