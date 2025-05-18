@@ -41,8 +41,6 @@
 </div>
 
 ---
-🔗 LMS Contribution: [PR #14](https://github.com/Eslam-Sayed7/Learning-Managment-System/pull/14)  
-🔗 Library System Contribution: [PR #5](https://github.com/Eslam-Sayed7/Library-Managment-System/pull/5)
 
 ## 📫 Let's Connect!
 
