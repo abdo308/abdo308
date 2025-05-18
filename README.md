@@ -16,7 +16,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C#-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ---
 
@@ -24,11 +23,13 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| 📱 [MyTodoApp](https://github.com/yourusername/MyTodoApp) | A beautiful to-do Android app using MVVM, Room, and Kotlin | Kotlin, Room, LiveData |
-| 🐳 [DevOps Playground](https://github.com/yourusername/devops-playground) | A collection of Docker and GitHub Actions pipelines | Docker, GitHub Actions |
-| 🎮 [Gomoku AI](https://github.com/yourusername/gomoku-ai) | A 15x15 "4 in a row" game with AI using Minimax | Python, OOP |
+| 📘 [Learning Management System](https://github.com/Eslam-Sayed7/Learning-Managment-System) | Contributed to a back-end Spring Boot-based LMS. Implemented modules and improved backend logic. | Java, Spring Boot, PostgreSQL |
+| 📚 [Library Management System](https://github.com/Eslam-Sayed7/Library-Managment-System) | Participated in backend development. Helped implement REST APIs and improve data validation with simple GUI. | C#, .NET, SQL, |
+| 🍳 [Recipe App](https://github.com/abdo308/Recipe-App) | An Android recipe app with modern UI, API integration, and local database. | Kotlin, Retrofit, Room, MVVM |
+| 🎮 [Gomoku AI](https://github.com/abdo308/gomoku-ai) | A 15x15 "4 in a row" game with AI using Minimax | Python, OOP |
 
-> 📌 More at [github.com/yourusername](https://github.com/yourusername)
+
+> 📌 More at [github.com/yourusername](https://github.com/abdo308)
 
 ---
 
@@ -40,12 +41,12 @@
 </div>
 
 ---
+🔗 LMS Contribution: [PR #14](https://github.com/Eslam-Sayed7/Learning-Managment-System/pull/14)  
+🔗 Library System Contribution: [PR #5](https://github.com/Eslam-Sayed7/Library-Managment-System/pull/5)
 
 ## 📫 Let's Connect!
 
-- 💼 [LinkedIn](https://linkedin.com/in/your-linkedin)
-- 🌐 [Portfolio](https://yourportfolio.com)
-- 🐦 [Twitter](https://twitter.com/yourhandle)
+- 💼 [LinkedIn](www.linkedin.com/in/abdalrhman-magdy-b232ab214)
 
 ---
 
