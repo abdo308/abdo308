@@ -24,9 +24,9 @@
 | Project | Description | Tech |
 |--------|-------------|------|
 | 📘 [Learning Management System](https://github.com/Eslam-Sayed7/Learning-Managment-System) | Contributed to a back-end Spring Boot-based LMS. Implemented modules and improved backend logic. | Java, Spring Boot, PostgreSQL |
-| 📚 [Library Management System](https://github.com/Eslam-Sayed7/Library-Managment-System) | Participated in backend development. Helped implement REST APIs and improve data validation with simple GUI. | C#, .NET, SQL, |
+| 📚 [Library Management System](https://github.com/Eslam-Sayed7/Library-Managment-System) | Participated in backend development. Helped implement REST APIs and improve data validation with simple GUI. | C#, .NET, SQL |
 | 🍳 [Recipe App](https://github.com/abdo308/Recipe-App) | An Android recipe app with modern UI, API integration, and local database. | Kotlin, Retrofit, Room, MVVM |
-| 🎮 [Gomoku AI](https://github.com/abdo308/gomoku-ai) | A 15x15 "4 in a row" game with AI using Minimax | Python, OOP |
+| 🎮 [Gomoku AI](https://github.com/abdo308/gomoku-ai) | A 15x15 "5 in a row" game with AI using Minimax and Alpha-beta | Python, OOP, Pygame  |
 
 
 > 📌 More at [github.com/yourusername](https://github.com/abdo308)
